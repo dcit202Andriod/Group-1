@@ -1,4 +1,4 @@
 package com.example.sprime;
   
-public class DetailActivity {
+public class DetailActivity { 
 }
